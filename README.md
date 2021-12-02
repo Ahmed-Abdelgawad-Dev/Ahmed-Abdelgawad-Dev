@@ -1,9 +1,13 @@
-### Hi 👋, I'm Ahmed Abdelgawad.
-## I'm a fullstack web developer (React | Django).
+```javascript
+const jsObj = {
+    greet:      "Hi, I'm Ahmed Abdelgawad",
+    Job:        "I'm a fullstack web developer (React | Django) & Freelancer"
+}
+```
 
-- 🔭 I work as a *freelancer*.
-- 🌱 I’m currently learning more of web development **( PostgreSQL, Node & Express, AWS deployment )** with [Udacity](https://www.udacity.com/).
-- 👯 I’m looking to collaborate on end2end web projects that inspire.
-- 💬 Ask me about JavaScript, React, Python & Django.
-- ⚡ Fun fact: 
-    Programming gives me much of self confidence in the daily life.
+```python
+py_dict = {
+    'AskMeAbout': "JavaScript, React, Python, Django",
+    'funFact':    "Programming gives me much of self confidence in the daily life."
+}
+```
