@@ -8,7 +8,7 @@ const jsObj = {
 ```python
 py_dict = {
     'ask me about': "JavaScript, React, Python, Django",
-    'fun fact':    "Programming gives me much of self confidence in the daily life."
+    'fun fact':     "Programming gives me much of self confidence in the daily life."
 }
 ```
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelgawad-webdev/)
