@@ -1,7 +1,7 @@
 ```javascript
 const jsObj = {
     greet:      "Hi 👋, I'm Ahmed Abdelgawad",
-    job:        "I'm a junior fullstack web developer (React | Django) & Freelancer"
+    job:        "I'm a fullstack web developer (React | Django) & Freelancer"
 }
 ```
 
