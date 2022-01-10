@@ -1,12 +1,12 @@
 ```javascript
-const Obj = {
+const greetJob = {
     greet:      "Hi 👋, I'm Ahmed Abdelgawad",
     job:        "I'm a fullstack web developer (React | Django) & Freelancer"
 }
 ```
 
 ```python
-dict = {
+ask_fun = {
     'ask me about': "JavaScript, React, Python, Django",
     'fun fact':     "Programming gives me much of self confidence in the daily life."
 }
