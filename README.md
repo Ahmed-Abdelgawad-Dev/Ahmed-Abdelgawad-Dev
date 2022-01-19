@@ -1,7 +1,7 @@
 ```javascript
 const greetJob = {
     greet:      "Hi 👋, I'm Ahmed Abdelgawad",
-    job:        "I'm a fullstack web developer (React | Django) & Freelancer"
+    job:        "I'm a fullstack web developer (React | Node | Django) & Freelancer"
 }
 ```
 
