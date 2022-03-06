@@ -1,5 +1,5 @@
 ```javascript
-const greetAndJob = {
+const greetJob = {
     greet:      "Hi 👋, I'm Ahmed Abdelgawad",
     job:        "I'm a fullstack web developer (React | Node | Django) & Freelancer"
 }
@@ -11,6 +11,9 @@ askme_funfact = {
     'fun fact':     "Programming gives me much of self confidence in the daily life."
 }
 ```
+
+
+
 ##### Languages | Frameworks & Technologies I've used:
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
@@ -23,15 +26,11 @@ askme_funfact = {
 ![Node](https://img.shields.io/badge/-node.js-000000?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express)
 ![Jasmine](https://img.shields.io/badge/jasmine-000000?style=flat&logo=jasmine)
+![Jest](https://img.shields.io/badge/jest-000000?style=flat&logo=jest)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
 ![Circleci](https://img.shields.io/badge/-circleci-000000?style=flat&logo=circleci)
-
-
-
-
-
-
-
+![Linux](https://img.shields.io/badge/-linux-000000?style=flat&logo=linux)
+![Fedora](https://img.shields.io/badge/-fedora-000000?style=flat&logo=fedora)
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelgawad-webdev/)
