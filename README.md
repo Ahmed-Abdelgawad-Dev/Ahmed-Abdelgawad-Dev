@@ -15,12 +15,12 @@ askme_funfact = {
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=JavaScript)
+![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
+![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
-![Nodejs](https://img.shields.io/badge/-node.js-000000?style=flat&logo=node.js)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![Material-ui](https://img.shields.io/badge/-materialUi-000000?style=flat&logo=material-ui)
-![Css3](https://img.shields.io/badge/-Css3-000000?style=flat&logo=css3)
+![Node](https://img.shields.io/badge/-node.js-000000?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express)
 
 
 
