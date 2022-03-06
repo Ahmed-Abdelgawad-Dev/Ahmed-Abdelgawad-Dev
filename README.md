@@ -14,7 +14,7 @@ askme_funfact = {
 
 
 
-##### Languages | Frameworks & Technologies I've used:
+##### Languages | Frameworks | Technologies & more I've used:
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![Postgres](https://img.shields.io/badge/-Postgresql-000000?style=flat&logo=Postgresql)
