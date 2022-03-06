@@ -22,7 +22,8 @@ askme_funfact = {
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![Node](https://img.shields.io/badge/-node.js-000000?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=AWS)
+![Jasmine](https://img.shields.io/badge/jasmine-000000?style=flat&logo=jasmine)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
 ![Circleci](https://img.shields.io/badge/-circleci-000000?style=flat&logo=circleci)
 
 
