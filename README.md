@@ -8,7 +8,7 @@ const greetJob = {
 ```python
 askme_funfact = {
     'ask me about': "JavaScript, React, Python, Django",
-    'fun fact':     "Programming gives me much of self confidence in the daily life."
+    'fun fact':     "Programming gives me much of self confidence."
 }
 ```
 
