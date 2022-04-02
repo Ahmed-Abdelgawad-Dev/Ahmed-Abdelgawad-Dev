@@ -1,6 +1,8 @@
-<h1>Hello, World!</h1>
+<h1 align="center">Hello, World!</h1>
 
-I'm a self-taught passionate { Full-stack Web Developer } from Egypt 🇪🇬.
+<h4 align="center">I'm a self-taught passionate { Full-Stack Web Developer } from Egypt 🇪🇬.</h4>
+
+<br/>
 
 | <a href="https://github.com/Ahmed-Abdelgawad-Dev/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Abdelgawad-Dev&&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Ahmed's github stats" /></a> | <a href="https://github.com/Ahmed-Abdelgawad-Dev/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Abdelgawad-Dev&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
