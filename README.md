@@ -1,6 +1,6 @@
 Hello, World!
 
-I'm a self-taught passionate Full-stack Web Developer from Egypt 🇪🇬
+I'm a self-taught passionate Full-stack Web Developer from Egypt 🇪🇬.
 
 | <a href="https://github.com/Ahmed-Abdelgawad-Dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Abdelgawad-Dev&&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Ahmed's github stats" /></a> | <a href="https://github.com/Ahmed-Abdelgawad-Dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Abdelgawad-Dev&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
