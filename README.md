@@ -11,9 +11,8 @@ askme_funfact = {
     'fun fact':     "Programming gives me much of self confidence."
 }
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Abdelgawad-Dev&show_icons=true&theme=dark&hide_border&card_width(50))](https://github.com/Ahmed-Abdelgawad-Dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Abdelgawad-Dev&show_icons=true&theme=dark&hide_border&border_radius)](https://github.com/Ahmed-Abdelgawad-Dev/github-readme-stats)
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Abdelgawad-Dev&show_icons=true&theme=dark&hide_border)
 
 ##### Languages | Frameworks | Technologies & more I've used:
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
