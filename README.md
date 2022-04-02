@@ -11,7 +11,7 @@ askme_funfact = {
     'fun fact':     "Programming gives me much of self confidence."
 }
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Abdelgawad-Dev)](https://github.com/Ahmed-Abdelgawad-Dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Abdelgawad-Dev&show_icons=true&theme=dark&hide_border)](https://github.com/Ahmed-Abdelgawad-Dev/github-readme-stats)
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Abdelgawad-Dev&show_icons=true&theme=dark&hide_border)
 
