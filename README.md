@@ -13,11 +13,7 @@ askme_funfact = {
 ```
 
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Abdelgawad-Dev&count_private=true)
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Abdelgawad-Dev&show_icons=true)
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Abdelgawad-Dev&show_icons=true&theme=radical)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Abdelgawad-Dev&show_icons=true&theme=radical&hide_border)
 
 ##### Languages | Frameworks | Technologies & more I've used:
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
