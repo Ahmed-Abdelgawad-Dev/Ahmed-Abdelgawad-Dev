@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World!</h1>
 
-<h4>I'm a self-taught passionate | Full-Stack Web Developer & Freelancer | from Egypt 🇪🇬 who ❤️ JavaScript & Python. </h4>
+<h4>I'm a self-taught passionate | Full-Stack Web Developer & Freelancer | from Egypt 🇪🇬 who ❤️ Python & JavaScript. </h4>
 
 <br/>
 <!-- 
