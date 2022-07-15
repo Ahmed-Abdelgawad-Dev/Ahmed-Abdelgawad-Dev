@@ -14,16 +14,19 @@
 ![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=JavaScript)
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
+![Circleci](https://img.shields.io/badge/-circleci-000000?style=flat&logo=circleci)
+![Linux](https://img.shields.io/badge/-linux-000000?style=flat&logo=linux)
+![Fedora](https://img.shields.io/badge/-fedora-000000?style=flat&logo=fedora)
+<!-- 
 ![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![Node](https://img.shields.io/badge/-node.js-000000?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express)
 ![Jasmine](https://img.shields.io/badge/jasmine-000000?style=flat&logo=jasmine)
 ![Jest](https://img.shields.io/badge/jest-000000?style=flat&logo=jest)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
-![Circleci](https://img.shields.io/badge/-circleci-000000?style=flat&logo=circleci)
-![Linux](https://img.shields.io/badge/-linux-000000?style=flat&logo=linux)
-![Fedora](https://img.shields.io/badge/-fedora-000000?style=flat&logo=fedora)
+-->
+
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelgawad-webdev/)
