@@ -17,6 +17,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
 ![Circleci](https://img.shields.io/badge/-circleci-000000?style=flat&logo=circleci)
 ![Fedora](https://img.shields.io/badge/-fedora-000000?style=flat&logo=fedora)
+![Debian](https://img.shields.io/badge/-debian-000000?style=flat&logo=debian)
 
 <!-- 
 ![Linux](https://img.shields.io/badge/-linux-000000?style=flat&logo=linux)
