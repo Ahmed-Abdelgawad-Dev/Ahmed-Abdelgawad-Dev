@@ -13,7 +13,6 @@
 ![Postgres](https://img.shields.io/badge/-Postgresql-000000?style=flat&logo=Postgresql)
 ![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=JavaScript)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
-
 ![Fedora](https://img.shields.io/badge/-fedora-000000?style=flat&logo=fedora)
 
 
