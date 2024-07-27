@@ -12,15 +12,16 @@
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![Postgres](https://img.shields.io/badge/-Postgresql-000000?style=flat&logo=Postgresql)
 ![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=JavaScript)
-![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
-![Circleci](https://img.shields.io/badge/-circleci-000000?style=flat&logo=circleci)
+
 ![Fedora](https://img.shields.io/badge/-fedora-000000?style=flat&logo=fedora)
 
 
 
 <!-- 
+![Circleci](https://img.shields.io/badge/-circleci-000000?style=flat&logo=circleci)
+![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![Linux](https://img.shields.io/badge/-linux-000000?style=flat&logo=linux)
 ![Debian](https://img.shields.io/badge/-debian-000000?style=flat&logo=debian)
 ![Linux](https://img.shields.io/badge/-linux-000000?style=flat&logo=linux)
